@@ -1,0 +1,27 @@
+{
+  "name": "truthortruth",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonalmaturner/truthortruth.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jasonalmaturner/truthortruth/issues"
+  },
+  "dependencies": {
+    "rethinkdb": "~2.0.2",
+    "express": "~4.13.1",
+    "express-session": "~1.11.3",
+    "passport": "~0.2.2",
+    "passport-facebook": "~2.0.0",
+    "body-parser": "~1.13.2",
+    "cors": "~2.7.1"
+  }
+}
